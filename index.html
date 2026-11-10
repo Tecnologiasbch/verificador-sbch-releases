@@ -1,0 +1,6 @@
+<!doctype html><html lang="es"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Verificador SBCH</title>
+<body style="font-family:system-ui,sans-serif;max-width:480px;margin:40px auto;padding:0 16px;color:#0f2942">
+<h1>Verificador SBCH</h1><p id="v">Cargando…</p>
+<script>fetch("version.json",{cache:"no-store"}).then(r=>r.json()).then(j=>{const p=document.getElementById("v");p.textContent="";const a=document.createElement("a");a.href=j.downloadUrl;a.textContent="Descargar v"+j.versionName;p.append(a)}).catch(()=>{document.getElementById("v").textContent="Aún no hay versiones publicadas."})</script>
+</body></html>
