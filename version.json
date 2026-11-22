@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "0.14.0",
-  "downloadUrl": "https://tecnologiasbch.github.io/verificador-sbch-releases/Verificador_SBCH_v0.14.0.apk",
-  "changelog": "Nuevo modo kiosco para los consultaprecios de sala (pantalla para clientes con lector de códigos). Mejoras internas.\n"
+  "versionCode": 16,
+  "versionName": "0.14.1",
+  "downloadUrl": "https://tecnologiasbch.github.io/verificador-sbch-releases/Verificador_SBCH_v0.14.1.apk",
+  "changelog": "Mejoras para los consultaprecios de sala: estado de la red y reporte de funcionamiento.\n"
 }
