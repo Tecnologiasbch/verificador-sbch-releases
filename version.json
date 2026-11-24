@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "1.0.0",
-  "downloadUrl": "https://tecnologiasbch.github.io/verificador-sbch-releases/Verificador_SBCH_v1.0.0.apk",
-  "changelog": "Versión 1.0: búsqueda que tolera errores de escritura, ficha del producto desde biblias.cl y tienda.sbch.cl, nuevo inicio de sesión y cierre de sesión que borra todo. Al actualizar deberás iniciar sesión nuevamente.\n"
+  "versionCode": 34,
+  "versionName": "1.0.1",
+  "downloadUrl": "https://tecnologiasbch.github.io/verificador-sbch-releases/Verificador_SBCH_v1.0.1.apk",
+  "changelog": "Mejora en el modo kiosco: el consultaprecios avisa al panel apenas recupera la red.\n"
 }
